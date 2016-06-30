@@ -1,12 +1,13 @@
 ---
+title: Image Magik Project
 layout: default
 modal-id: 1
 #date: 2014-07-18
 img: ruby4.png
 alt: image-alt
-#project-date: April 2014
+project-date: April 2014
 #client: University
 category: Web Development
 description: This is was a project for university written in ruby on rails. It is an image sharing and maniuplation website. It only contains simple image manipulation functions but this could be easily expanded. It also keeps a history of image versions. Duplicates are avoided through storing images based on their md5 hash.
-
+url: https://bitbucket.org/eckyecky/smd-project-2/
 ---

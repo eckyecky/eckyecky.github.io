@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Daniel Edwards
-  #location: Location
+  location: Location
   social: Around the Web
   credits: Credits
 

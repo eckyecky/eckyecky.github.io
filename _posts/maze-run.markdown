@@ -1,0 +1,13 @@
+---
+title: Maze Run
+layout: default
+modal-id: 2
+#date: 2014-07-18
+img: csharp.svg
+alt: image-alt
+#project-date: April 2014
+#client: University
+category: C# Devlopment
+description: This is was a project for university written in C#. It is a 3d maze game built for windows 8.1 tablets. It has custom shaders and a randomly generated map. 
+#project-page: https://bitbucket.org/eckyecky/oosd-project2
+---
